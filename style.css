@@ -1,0 +1,50 @@
+body{
+    font-family: 'Teko', sans-serif;
+    color:black;
+}
+.heading{
+    font-weight:bold;
+    background: linear-gradient(aqua 0%, aquamarine 100%);
+    background-repeat: no-repeat;
+}
+.header_div p{
+    letter-spacing: 5px;
+    font-weight:bolder;
+}
+.main_div button{
+    letter-spacing:5px;
+    margin-top:30px;
+    width:150px;
+    font-weight: bolder;
+    background: linear-gradient(aqua 0%, aquamarine 100%);
+    background-repeat: no-repeat;
+    border-radius: 100px;
+}
+#result_label{
+    color: aqua;
+}
+#result_confidence{
+    color: aquamarine;
+}
+.copyright_footer{
+    position:fixed;
+    bottom: 0;
+    width:100%;
+    text-shadow: 5px 5px 5px white;
+    line-height: 3;
+    text-align:center;
+    background-color: darkgray;
+    font-weight: bolder;
+    background: linear-gradient(aquamarine 0%, aqua 100%);
+    background-repeat: no-repeat;
+}
+.main_div{
+    background: linear-gradient(black 0%, white 100%);
+}
+#scdaclogo{
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
